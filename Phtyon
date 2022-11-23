@@ -1,0 +1,8 @@
+Sno=int(input('enter Sno')
+Same=input('enter Sname')
+Sadd=input('enyer Sadd')
+Sgroup=input('enyer Sgroug')
+Print('Sno',Sno)
+Print('Sname',Sname)
+Print('Sadd',Sadd)
+Print('Sgroup',sgroup)
